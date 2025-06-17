@@ -1,4 +1,4 @@
-# Fine-Tune-Model 🎯
+# Fine-Tune-LLMs 🎯
 
 This project focuses on fine-tuning a pre-trained transformer-based language model using the [IMDb movie reviews dataset](https://ai.stanford.edu/~amaas/data/sentiment/). The goal is to build a sentiment classification model that can accurately classify movie reviews as positive or negative.
 
